@@ -1,0 +1,1 @@
+{"default": {"n_partition": 2, "n_items": [13, 17], "exe_time": 0.12612104415893555}, "customized": {"n_partition": 3, "n_items": [10, 7, 13], "exe_time": 0.1925191879272461}}

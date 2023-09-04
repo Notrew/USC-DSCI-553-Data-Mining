@@ -1,0 +1,1 @@
+{"m1": 0.6199555397033691, "m2": 0.7215485572814941, "reason": "Because when sort in spark is done within partitions, so it can work on several partitions at one time, but python can only work on one memory, so spark is faster"}
